@@ -89,11 +89,9 @@ def adding_matz
 	 known_for: "Ruby",
 	 languages: ["LISP, C"]
  }
- binding.pry
+ 
 
 end
-
-adding_matz
 
 def changing_alan
 	programmer_hash =
